@@ -7,10 +7,19 @@
 
 ---
 
-### 🛠 Tech Stack
-* **AI/Deep Learning:** Swin Transformer, BERT, CNNs, YOLO, RAG Architectures.
-* **Web & Deployment:** Flask, Streamlit, Chainlit, HTML/CSS/JS, ngrok.
-* **Tools & Frameworks:** PyTorch/TensorFlow, OpenCV, Git, AWS (S3, CloudFront).
+### 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
 
 ---
 
@@ -36,10 +45,12 @@
 ---
 
 ### 💬 Let's Connect
-* **LinkedIn:** [www.linkedin.com/in/ibrahim-marwan-3a8496279]
-* **GitHub:** [https://github.com/ibrahimsharaf795-alt]
-* **Google #1:** [mohy10781@gmail.com]
-* **Google #2:** [mohyibrahem38@gmail.com]
+<p align="center">
+  <a href="mailto:mohy10781@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ibrahim-marwan-3a8496279"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ibrahimsharaf795-alt"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 > "When your work speaks for itself, don't interrupt." - Henry J. Kaiser
 
 ---
