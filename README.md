@@ -36,8 +36,8 @@
 ---
 
 ### 💬 Let's Connect
-* **LinkedIn:** [Your Profile Link]
-* **GitHub:** [Your Profile Link]
+* **LinkedIn:** [www.linkedin.com/in/ibrahim-marwan-3a8496279]
+* **GitHub:** [https://github.com/ibrahimsharaf795-alt]
 
 > "When your work speaks for itself, don't interrupt." - Henry J. Kaiser
 
