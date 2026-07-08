@@ -1,43 +1,43 @@
 <p align="center">
-  <img src="https://github.com/ibrahimsharaf795-alt/ibrahimsharaf795-alt/blob/main/assets/Image%20one.png?raw=true" alt="Eng.Ibrahim Marwan" width="100%">
+  <img src="assets/image_be940b.jpg" alt="Ibrahim Marwan" width="100%">
 </p>
 
 ## Hi there! 👋 I'm Ibrahim Marwan
-
-I am a Computer Science and Engineering student at King Salman International University, passionate about **Artificial Intelligence** and **Computer Vision** engineering.
-
-I specialize in building intelligent systems that bridge the gap between AI research and practical, cross-platform software solutions.
+**AI Engineering & CV Engineering Student** | Passionate about building intelligent, scalable, and cross-platform medical & NLP solutions.
 
 ---
 
 ### 🛠 Tech Stack
+* **AI/Deep Learning:** Swin Transformer, BERT, CNNs, YOLO, RAG Architectures.
+* **Web & Deployment:** Flask, Streamlit, Chainlit, HTML/CSS/JS, ngrok.
+* **Tools & Frameworks:** PyTorch/TensorFlow, OpenCV, Git, AWS (S3, CloudFront).
 
-**Core Expertise**
-*   **AI/ML:** YOLO models for object detection, Swin Transformers for medical image classification.
-*   **NLP:** Advanced BERT sentiment analysis, automatic text summarization.
-*   **Software Development:** Flutter (front-end), Flask (backend API services).
-*   **Hardware/Robotics:** Raspberry Pi 5, Arduino, and robotic arm kinematics.
-*   **Cloud & Infrastructure:** AWS (S3, CloudFront), cloud computing best practices.
+---
 
 ### 🚀 Key Projects
 
 | Project | Description |
 | :--- | :--- |
-| **Smart Robotic Arm** | Automated oral disease diagnosis using 3D imaging integration. |
-| **Arab Union Web Platform** | Multi-page platform with AI chatbot and digital ad integrations. |
-| **Sentiment Analysis** | Multi-lingual (Arabic/English) analysis using BERT & Streamlit. |
+| **Skin Disease Detection** | Automated diagnosis using Swin Transformer on HAM10000 (94%+ accuracy). |
+| **Heart Disease Diagnosis** | Full-stack web app using Flask, integrating deep learning on NIH Chest X-ray dataset. |
+| **RAG QA System** | Built an advanced Retrieval-Augmented Generation system with a Chainlit chatbot interface. |
+| **Sentiment Analysis Platform** | Cross-lingual (Arabic/English) sentiment analysis using fine-tuned BERT & Streamlit. |
+| **Optical Character Recognition** | Computer Vision-based OCR solution for text extraction. |
+| **Smart Robotic Arm** | Automated oral disease diagnosis integration using 3D imaging. |
+| **Recommendation System** | Machine learning-based movie recommendation engine deployed with Streamlit. |
+| **Text Classification** | Automatic classifier built using RDF and ontologies. |
 
 ---
 
 ### 🎓 Education & Certifications
-*   **University:** King Salman International University (KSIU), Faculty of Computer Science and Engineering.
-*   **Professional Development:** IBM Certifications (Software Engineering, Cloud Computing), DeepLearning.AI (NLP, Neural Networks).
+* **University:** King Salman International University (KSIU), Faculty of Computer Science and Engineering.
+* **Courses:** IBM Certifications (Software Engineering, Cloud Computing), DeepLearning.AI (NLP, Neural Networks).
 
 ---
 
-### 💬 Connect With Me
-*   **LinkedIn:** [Link to your profile]
-*   **GitHub:** [Link to your profile]
+### 💬 Let's Connect
+* **LinkedIn:** [Your Profile Link]
+* **GitHub:** [Your Profile Link]
 
 > "When your work speaks for itself, don't interrupt." - Henry J. Kaiser
 
