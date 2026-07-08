@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/image_be940b.jpg" alt="Ibrahim Marwan" width="100%">
+  <img src="https://github.com/ibrahimsharaf795-alt/ibrahimsharaf795-alt/blob/main/assets/Image%20one.png?raw=true" alt="Ibrahim Marwan" width="100%">
 </p>
 
 ## Hi there! 👋 I'm Ibrahim Marwan
